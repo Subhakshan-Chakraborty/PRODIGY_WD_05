@@ -4,4 +4,3 @@ The api I've used is : https://openweathermap.org/api
 
 my github : https://github.com/Subhakshan-Chakraborty
 
-demo : https://tejus05.github.io/vanilla-javascript-projects/weather-app/
